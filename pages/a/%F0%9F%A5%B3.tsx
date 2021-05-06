@@ -21,16 +21,6 @@ export default function Index() {
                 <meta name="msapplication-TileColor" content="#1f286f"/>
                 <meta name="theme-color" content="#1f286f"/>
 
-                <meta property="og:title" content="Hi!"/>
-                <meta property="og:type" content="website"/>
-                <meta property="og:url" content="https://👋🤘🤞.tk/"/>
-                <meta property="og:image" content="https://👋🤘🤞.tk/ogp.png"/>
-                <meta property="og:site_name" content="Hi!"/>
-                <meta property="og:description" content="Hi there👋🤘🤞"/>
-                <meta property="og:locale" content="ja_JP"/>
-                <meta name="twitter:card" content="summary_large_image"/>
-                <meta name="twitter:site" content="@NIXO_dev"/>
-
                 <link rel="stylesheet" href="/main.css"/>
 
                 <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossOrigin="anonymous"></script>
