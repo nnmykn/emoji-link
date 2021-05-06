@@ -28,6 +28,8 @@ export default function Index() {
             </Head>
             <body>
                 <h1>Hi there👋🤘🤞</h1>
+                <p>Made by <a href="https://github.com/nnmykn/">Ninomiya Kan👍🤘</a></p>
+                <p>Github <a href="https://github.com/nnmykn/emoji-link/">Repositorie</a></p>
             </body>
         {/* GoogleFonts */}
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
