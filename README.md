@@ -99,3 +99,9 @@ When you access the domain of the emoji, you will be forwarded to your Twitter p
 
 ### MeItN0N
 - [https://👋🤘🤞.tk/a/♻/](https://👋🤘🤞.tk/a/♻/)(@MeItN0N)
+
+### linux123pc
+- [https://👋🤘🤞.tk/k/🤔/](https://👋🤘🤞.tk/k/🤔/)(@linux123pc)
+
+### bCt1HRVU6azafJh
+- [https://👋🤘🤞.tk/l/🤔/](https://👋🤘🤞.tk/l/🤔/)(@bCt1HRVU6azafJh)
