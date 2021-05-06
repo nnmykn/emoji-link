@@ -105,3 +105,6 @@ When you access the domain of the emoji, you will be forwarded to your Twitter p
 
 ### bCt1HRVU6azafJh
 - [https://👋🤘🤞.tk/l/🤔/](https://👋🤘🤞.tk/l/🤔/)(@bCt1HRVU6azafJh)
+
+### Nakaisan000
+- [https://👋🤘🤞.tk/a/💾/](https://👋🤘🤞.tk/a/💾/)(@Nakaisan000)
