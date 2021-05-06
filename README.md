@@ -7,8 +7,10 @@ When you access the domain of the emoji, you will be forwarded to your Twitter p
 
 ## Links
 
-### LGA775
+### NIIKUUN
+- [https://👋🤘🤞.tk/👋/](https://👋🤘🤞.tk/👋/)(@NIIKUUN)
 
+### LGA775
 - [https://👋🤘🤞.tk/a/🤔/](https://👋🤘🤞.tk/a/🤔/)(@LGA775)
 
 ### vitomcharm
